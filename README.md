@@ -8,8 +8,7 @@
 
 
 
-## link do Portfólio: https://portfolio-sigma-lake-78.vercel.app/about.html
-
+## link do Portfólio: https://portfolio-sigma-lake-78.vercel.app/index.html
 ## Ferramentas utilizadas:
 
 * HTML
